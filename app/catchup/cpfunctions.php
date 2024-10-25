@@ -5,7 +5,7 @@
 // * Created By : TechieSneh
 
 // Set Proxy  
-$PROXY = false;
+$PROXY = true;
 
 // Constants
 define('DATA_FOLDER', '../assets/data');
